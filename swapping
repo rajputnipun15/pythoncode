@@ -1,0 +1,4 @@
+a=float(input("Enter interger:"))
+b=float(input("Enter integer:"))
+c=a is b
+print(c)
