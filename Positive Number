@@ -1,6 +1,17 @@
+#Printing sum of two positive numbers
 a=int(input("Enter first number:"))
 b=int(input("Enter second number:"))
 if a>0 and b>0:
     print(a+b)
 else:
     print("Given numbers are not positive")
+
+
+
+
+
+
+
+
+
+#Chuchika
